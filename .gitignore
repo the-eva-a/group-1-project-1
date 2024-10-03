@@ -161,4 +161,5 @@ cython_debug/
 
 Project Notes.ipynb
 Project Notes.md
+.env
 
