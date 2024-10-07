@@ -19,7 +19,7 @@ Finally, **median household income** had the strongest correlation with early mo
 
 The socioeconomic factors we focused on were **median household income**, **income inequality**, **unemployment**, **housing overcrowding and inadequacy**, and **health insurance rate**. Of these factors, only the **food environment index** showed a significant correlation with early mortality (Spearman -0.8077, p < 0.001). This finding highlights the importance of access to healthy food in reducing premature deaths. Surprisingly, **income inequality** and **housing inadequacy** did not show strong correlations, suggesting that while these factors may contribute to general quality of life, their direct impact on early mortality is less pronounced.
 
-![A heatmap of the correlation of environmental health factors and early mortality.](./images/state-environmental-metrics-corr.png)
+![A heatmap of the correlation of environmental health factors and early mortality.](../images/state-environmental-metrics-corr.png)
 
 ### How do lifestyle factors impact early mortality in the United States, and how strong is the correlation?
 
